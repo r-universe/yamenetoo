@@ -1,5 +1,8 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "UnitTrans"]
+	path = UnitTrans
+	url = https://github.com/yamenetoo/statistical-repository
+	subdir = UnitTrans
